@@ -1,0 +1,31 @@
+Senior NLP / GenAI Engineer
+Company: CognitiveScale AI
+Location: Remote (US / EMEA)
+Employment Type: Full-time
+
+About the Role:
+We are seeking an experienced Senior NLP / GenAI Engineer to join our core AI engineering team. You will architect, optimize, and deploy autonomous LLM agents and retrieval-augmented generation (RAG) pipelines in production.
+
+Responsibilities:
+- Build and evaluate agentic AI workflows with multi-step reasoning, tool use, and structured outputs.
+- Fine-tune open-weights models and develop RAG architectures utilizing dense retrieval and vector indexes.
+- Scale real-time inference microservices using FastAPI, Docker, and Kubernetes.
+- Collaborate with product and ML teams to implement automated hallucination guardrails and evaluation harnesses.
+
+Required Qualifications (Must-Have):
+- Strong expertise in Python with asynchronous programming (asyncio).
+- Production experience with Large Language Models (LLMs) and generative AI architectures.
+- Hands-on mastery of deep learning frameworks such as PyTorch or Hugging Face Transformers.
+- Practical experience designing RAG systems and using vector databases (e.g., FAISS, Qdrant, Pinecone, or Chroma).
+- Solid foundation in RESTful API development using FastAPI or Flask.
+- Experience with Git version control and modern CI/CD deployment pipelines.
+
+Preferred Qualifications (Nice-to-Have):
+- Experience deploying models on Kubernetes and AWS cloud infrastructure.
+- Familiarity with LangChain, LlamaIndex, or custom LCEL architectures.
+- Understanding of prompt optimization, quantization (e.g. bitsandbytes, AWQ, GGUF), and LoRA fine-tuning.
+- Familiarity with semantic search and re-ranking algorithms (e.g., Cohere, Cross-Encoders).
+
+Hard Requirements & Deal-Breakers:
+- 3+ years professional software or machine learning engineering experience in Python.
+- Proven track record of deploying at least one GenAI or NLP service in a live production environment.

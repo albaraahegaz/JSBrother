@@ -1,0 +1,25 @@
+Project: Need AI Bot Like ChatGPT for My Website ASAP
+Client: Digital Growth Hub
+Type: Freelance Project
+Budget: $300 (Fixed price)
+Deadline: 3 days
+Location: Remote
+
+Project Details:
+I need a smart AI chatbot added to my company website that answers customer questions automatically like ChatGPT.
+It needs to know everything about our business and reply instantly. I don't have a technical background so you need to handle everything from A to Z, including setting up hosting, picking whatever model is best, and making it look modern. We might connect it to our internal CRM database later once you show me a demo.
+
+Requirements:
+- Python or JavaScript chatbot script.
+- OpenAI API integration (or free open source alternative).
+- Fast turnaround in 3 days.
+- Must work on WordPress or custom HTML site.
+- Friendly conversational tone.
+
+Nice to Have:
+- Voice input / speech-to-text.
+- WhatsApp or Telegram bot integration.
+
+Deal-Breakers:
+- Must complete entire system in 3 days.
+- No upfront payment until working demo is installed on my test server.

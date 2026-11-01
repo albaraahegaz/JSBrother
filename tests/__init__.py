@@ -1,0 +1,1 @@
+"""JSBrother test suite."""

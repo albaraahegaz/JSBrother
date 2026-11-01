@@ -1,0 +1,32 @@
+Company: Mondia
+Job Title: Agentic AI Engineer
+Location: Cairo, Cairo, Egypt
+Work Type: Hybrid
+Employment Type: Full-time
+
+About the job
+We're building production AI agents that change how our engineering org ships code and how employees work with internal knowledge. You'll join a small, high-ownership team. You'll write the agent logic, the tools, the data layer, and the pipelines that make them dependable at scale. Turn architecture into reliable, well-tested, production-grade systems.
+
+Role and Responsibilities :
+* Implement agent logic, tools, and orchestration against the given architecture
+* Build and tune RAG pipelines: ingestion → embeddings → retrieval → re-ranking → evaluation
+* Design and optimize Postgres schemas, queries, and vector indexes for production load
+* Build the test-generation and test-execution engine for the AI Code Pipeline
+* Integrate with Git, CI/CD, and internal services
+* Build evaluation harnesses, observability, and guardrails so agents are measurable and safe
+* Own the reliability, latency, and cost of the systems you ship
+* Write clean, typed, well-tested Python and participate actively in code review
+
+Requirements
+* 4+ years of professional software engineering in Python, with deep, hands-on command of the language : async, typing, packaging, performance, and clean, maintainable code
+* 1+ years building LLM / agentic systems — tool use / function calling, orchestration, prompting, and evaluation
+* Strong problem-solving and debugging on ambiguous, real-world production problems
+* Solid Postgres experience: schema design, query optimization, and extensions (pgvector)
+* Experience shipping and operating production services — testing, CI/CD, observability, on-call mindset
+* Comfort with Git-based workflows and code review
+* Automating software testing: unit, integration, functional, security, performance
+* Integrating with developer tooling and CI/CD systems
+* 6+ months of demonstrated experience building with Claude Code in a development workflow
+
+Benefits
+Opportunity to work for a dynamic international company with a flat hierarchical structure, where your voice matters and your impact is seen.

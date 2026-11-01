@@ -1,0 +1,26 @@
+Project: Build FastAPI & Async Web Scraper Pipeline for Real Estate Data
+Client: E-commerce Analytics Studio
+Type: Freelance Project / Contract
+Budget: $1,200 (Fixed price)
+Deadline: 10 days
+Location: Remote
+
+Project Summary:
+We are looking for an experienced Python developer to build a robust web scraping and ingestion pipeline for public MLS property listings across 5 regional portals. The scraper must bypass Cloudflare challenge pages, extract structured JSON property records, and expose an internal query API via FastAPI.
+
+Required Deliverables & Must-Have Skills:
+- Python 3.10+ async implementation using Playwright or Selenium to handle dynamic JavaScript rendering.
+- Robust anti-bot handling (rotating user-agents, proxies, stealth headers).
+- FastAPI backend providing authenticated endpoints to trigger scraping jobs and retrieve extracted listings.
+- PostgreSQL database integration using SQLAlchemy or asyncpg to store normalized property records with deduplication.
+- Redis task queue (Celery or RQ) for managing background extraction worker tasks.
+- Clean Dockerfile and docker-compose.yml for one-command local startup.
+
+Nice-to-Have Skills:
+- Experience deploying to DigitalOcean or AWS ECS.
+- BeautifulSoup or lxml for secondary static parsing optimization.
+- Prometheus metrics or structured logging with Loguru.
+
+Deal-Breakers:
+- Freelancer must provide past demonstrated code examples of Playwright or Selenium scrapers.
+- Must deliver fully working, tested code within the 10-day timeline.

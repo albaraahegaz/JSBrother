@@ -1,0 +1,29 @@
+Company: Meriti Inc
+Job Title: Machine Learning Engineer | Sponsor US H1B
+Location: Egypt
+Work Type: Remote
+Employment Type: Full-time
+
+About the job
+Machine Learning Engineer | Sponsor US H1B
+
+Company Description
+Meriti Inc. empowers organizations to unlock the full potential of their data through advanced analytics and artificial intelligence. Our analytics practice delivers robust frameworks that help clients navigate the complexities of statistics, predictive modeling, and machine learning. By combining technical excellence with strategic insight, we enable businesses to stay ahead in the rapidly evolving world of AI and data-driven transformation.
+
+Role Description
+Meriti Inc. is seeking a Machine Learning Engineer (computer vision / Large Language Models) for a full-time remote position. In this role, you will design, develop, and implement cutting-edge machine learning models and LLM-based applications. You will collaborate with cross-functional teams to translate business needs into scalable AI solutions, leveraging your expertise in algorithms, neural networks, and natural language processing to deliver real-world impact.
+
+Qualifications
+* Strong proficiency in Machine Learning, including Neural Networks and Pattern Recognition
+* Solid foundation in Computer Science, Statistics, and Applied Mathematics
+* Proven experience developing and implementing NLP, computer vision and LLM-based algorithms (e.g., LLaMA, GPT, or similar architectures)
+* Excellent problem-solving, analytical, and collaboration skills
+* Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, or related field
+* Hands-on experience with ML frameworks and toolkits (e.g., PyTorch, TensorFlow, Hugging Face)
+* Proficient in Python, R, or other ML-related programming languages
+* Ability to work independently and thrive in a remote, fast-paced environment
+* Experience in predictive modeling, AI systems, or data-driven product development is a strong plus
+
+Requirements added by the job poster
+• 1+ years of work experience with PL/SQL
+• 1+ years of work experience with Databases

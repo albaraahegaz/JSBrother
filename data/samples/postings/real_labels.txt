@@ -1,0 +1,153 @@
+# Hand labels for real postings in data/samples/postings/
+# Format: one skill per line, lowercase. "a | b | c" = any one of these counts (aliases or "e.g." alternatives).
+# Per file: MUST, NICE, DEALBREAKERS, plus META (work type, budget, deadline, red flags).
+# These are for evaluation only. They do NOT count toward the M3 target (6 synthetic postings).
+
+[real_job_1.txt]
+# META
+type: job
+work_type: remote
+employment: full-time
+budget: none
+deadline: none
+red_flags: none
+# MUST
+machine learning
+neural networks
+pattern recognition
+computer science
+statistics
+applied mathematics
+natural language processing | nlp
+computer vision
+large language models | llm | llms
+pytorch | tensorflow | hugging face
+python
+pl/sql | plsql
+databases | database
+# NICE
+predictive modeling
+ai systems
+r
+# DEALBREAKERS
+none
+
+[real_job_2.txt]
+# META
+type: job
+work_type: hybrid
+employment: full-time
+budget: none
+deadline: none
+red_flags: none
+# MUST
+microsoft azure | azure
+azure data factory | adf
+azure data lake | azure data lake storage | adls
+azure databricks | databricks
+apache spark | spark
+pyspark
+python
+sql
+object-oriented programming | oop
+git
+ci/cd | continuous integration | continuous delivery
+data pipelines | etl
+data quality
+machine learning
+# NICE
+feature engineering
+mlops | machine learning operations
+agile
+power bi
+ai coding agents
+context engineering
+sap bw | sap business warehouse
+azure data engineer certification
+devops
+# DEALBREAKERS
+2+ years professional experience
+
+[real_job_3.txt]
+# META
+type: job
+work_type: hybrid
+employment: full-time
+budget: none
+deadline: none
+red_flags: none
+# MUST
+python
+async python | asyncio
+llm | llms | large language models
+agentic systems | agentic ai | ai agents
+tool use | function calling
+rag | retrieval-augmented generation
+postgres | postgresql
+pgvector
+git
+ci/cd
+automated testing | testing
+observability
+claude code
+# NICE
+embeddings
+re-ranking | reranking
+evaluation | evaluation harnesses
+guardrails
+prompt engineering | prompting
+code review
+security testing
+performance testing
+# DEALBREAKERS
+4+ years professional python
+1+ years llm/agentic systems
+6+ months claude code
+
+[real_project_1.txt]
+# META
+type: project
+work_type: remote
+budget: 12500-37500 inr (fixed)
+deadline: none stated (bidding ends in 6 days 16 hours)
+red_flags: mern stack listed but irrelevant | full imagenet on single gpu is heavy for the budget | vague accuracy target | no delivery deadline
+# MUST
+python
+deep learning
+computer vision
+pytorch | tensorflow
+transfer learning
+cnns | convolutional neural networks
+data augmentation
+model evaluation
+jupyter notebook | jupyter
+# NICE
+machine learning
+image processing
+resnet | efficientnet
+# DEALBREAKERS
+none
+
+[real_project_2.txt]
+# META
+type: project
+work_type: remote
+budget: 12500-37500 inr (fixed, price open to discussion)
+deadline: 4 days
+red_flags: asks for past work samples before agreeing | price negotiable after review | spss statistics listed but never mentioned in description | short deadline
+# MUST
+python
+pandas
+numpy
+scikit-learn | sklearn
+data cleaning
+exploratory data analysis | eda
+data visualization | data visualisation
+machine learning
+jupyter notebook | jupyter
+# NICE
+data science
+data mining
+spss statistics | spss
+# DEALBREAKERS
+none

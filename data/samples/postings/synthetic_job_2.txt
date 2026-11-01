@@ -1,0 +1,31 @@
+Cloud Data Platform Engineer
+Company: FinTech Vanguard
+Location: New York, NY (Hybrid - 2 days in office)
+Employment: Full-time
+
+Overview:
+FinTech Vanguard is hiring a Cloud Data Platform Engineer to design, scale, and maintain our enterprise financial data lakehouse and streaming ETL infrastructure.
+
+Key Responsibilities:
+- Design real-time and batch data pipelines ingesting transactional market data into our cloud data warehouse.
+- Optimize distributed analytical queries and data transformations using Apache Spark and dbt.
+- Maintain robust data quality checks, schema evolution, and automated alerting.
+- Implement CI/CD automation for infrastructure and data models using Terraform and GitHub Actions.
+
+Must-Have Requirements:
+- Proficiency in Python and advanced SQL for complex data modeling and transformation.
+- Hands-on expertise with distributed computing platforms like Apache Spark or PySpark.
+- Production experience with modern cloud data warehouses such as Snowflake, BigQuery, or Databricks.
+- Demonstrated experience with modern ELT tooling (specifically dbt).
+- Experience managing streaming or messaging queues like Apache Kafka or AWS Kinesis.
+- Strong understanding of data modeling, data warehousing methodologies, and data quality assurance.
+
+Nice-to-Have Skills:
+- Experience orchestrating workflows with Apache Airflow or Prefect.
+- Hands-on knowledge of cloud infrastructure on AWS (e.g. S3, Glue, EMR, IAM).
+- Familiarity with Infrastructure as Code using Terraform.
+- Exposure to financial market data or regulatory compliance frameworks.
+
+Deal-Breakers:
+- 4+ years of professional data engineering experience.
+- Must be authorized to work in the US without current or future visa sponsorship.

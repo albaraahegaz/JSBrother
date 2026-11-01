@@ -1,0 +1,31 @@
+Full Stack TypeScript / React Developer
+Company: HealthPulse Systems
+Location: Remote (US)
+Employment Type: Full-time
+
+Job Description:
+HealthPulse Systems is developing next-generation patient monitoring and diagnostic web applications. We need a talented Full Stack Developer skilled in modern TypeScript, React, and backend API engineering.
+
+Responsibilities:
+- Build responsive, accessible, and high-performance UI components using React, TypeScript, and modern state management.
+- Develop and maintain scalable microservices and REST / GraphQL APIs in Node.js.
+- Work closely with healthcare product managers and UI/UX designers to translate requirements into clean software.
+- Write unit, integration, and end-to-end tests to maintain rigorous healthcare software compliance standards.
+
+Mandatory Skills (Must-Have):
+- Strong proficiency in TypeScript and modern JavaScript (ES6+).
+- In-depth frontend experience with React (hooks, context, functional components).
+- Backend service development with Node.js and Express or NestJS.
+- Experience with relational database design and SQL using PostgreSQL.
+- Understanding of automated software testing (e.g. Jest, Cypress, or Vitest).
+- Familiarity with Git version control and team code review practices.
+
+Bonus Skills (Nice-to-Have):
+- Experience with GraphQL APIs and Apollo Client.
+- Familiarity with Tailwind CSS or CSS-in-JS design systems.
+- Experience with Docker containerization and cloud hosting on AWS or GCP.
+- Knowledge of HIPAA compliance or healthcare data privacy standards.
+
+Deal-Breakers:
+- 3+ years of professional full-stack web development experience.
+- Must be based in the United States and fluent in English.

@@ -1,0 +1,32 @@
+Title: ImageNet Classification Notebook Development
+Platform: Freelancer
+Status: Open
+Bids: 58
+Average bid: ₹21,822 INR
+Budget: ₹12,500.00 – 37,500.00 INR
+Bidding ends in 6 days, 16 hours
+Project ID: 40778974
+
+Project Details
+I need a well-structured Python notebook that walks through the full image-classification workflow on the ImageNet dataset. The notebook should start with downloading or mounting ImageNet, move through data preprocessing and augmentation, define and train a modern CNN (transfer learning with ResNet, EfficientNet, or a comparable backbone), and finish with clear validation metrics and loss/accuracy plots. Please include explanatory markdown so the code is easy to follow, plus comments on any hyper-parameters you tune.
+You are free to use PyTorch or TensorFlow—whichever you feel gives the quickest, most reproducible pipeline on a single-GPU setup. The notebook must execute top-to-bottom without manual tweaks once paths and batch size are set.
+
+Deliverables:
+• Jupyter notebook (.ipynb) runnable end-to-end on ImageNet
+• Helper script or cell that handles data download/mounting
+• Trained model saved to disk and re-load demo cell
+• README section inside the notebook with environment setup and expected training time
+
+Acceptance criteria: the notebook runs without errors, achieves a reasonable top-1 accuracy on the validation split within a small proof-of-concept training window (e.g., a few epochs), and all steps—data loading, augmentation, model definition, training loop, evaluation, and inference demo—are clearly documented.
+
+Skills Required
+Python
+Machine Learning (ML)
+Image Processing
+Tensorflow
+Pytorch
+Computer Vision
+Deep Learning
+MERN Stack
+Data Augmentation
+Model Evaluation

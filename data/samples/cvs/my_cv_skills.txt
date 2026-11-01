@@ -1,0 +1,50 @@
+# Ground-truth skills for CV_the_general_one.pdf (CV 1)
+# Format: one skill per line. "a | b" means a and b are the same skill (aliases).
+# Lines starting with # are comments. Lowercase.
+# Section CORE = skills listed in the CV "Skills" section (must be extracted).
+# Section EXTRA = skills clearly named in Experience/Projects (counted as bonus, not required).
+
+# ---- CORE ----
+python
+sql
+object-oriented programming | oop
+machine learning
+deep learning
+scikit-learn | sklearn
+pytorch
+natural language processing | nlp
+transformers
+rag | retrieval-augmented generation
+ai engineering
+data analysis
+exploratory data analysis | eda
+pandas
+numpy
+statistics
+feature engineering
+power bi
+tableau
+microsoft excel | excel
+matplotlib
+seaborn
+git
+github
+jupyter notebook | jupyter
+fastapi
+langgraph
+langsmith
+ragas
+
+# ---- EXTRA ----
+sql server
+dax
+bm25
+vector search
+hybrid rag
+agentic rag
+whisper
+next.js | nextjs
+cnns | convolutional neural networks
+reinforcement learning
+generative ai
+data cleaning

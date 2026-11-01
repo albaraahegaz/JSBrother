@@ -1,0 +1,182 @@
+{
+  "synthetic_job_1.txt": {
+    "title": "Senior NLP / GenAI Engineer",
+    "company_or_client": "CognitiveScale AI",
+    "type": "job",
+    "must_have": [
+      "python",
+      "asyncio | asynchronous programming",
+      "large language models | llm | llms | generative ai",
+      "deep learning",
+      "pytorch | hugging face | transformers",
+      "rag | retrieval-augmented generation",
+      "vector databases | faiss | qdrant | pinecone | chroma",
+      "fastapi | flask | rest api",
+      "git",
+      "ci/cd"
+    ],
+    "nice_to_have": [
+      "kubernetes",
+      "aws",
+      "langchain | llamaindex | lcel",
+      "prompt optimization | prompt engineering",
+      "quantization | lora | fine-tuning",
+      "re-ranking | semantic search"
+    ],
+    "min_years": 3.0,
+    "deal_breakers": [
+      "3+ years professional python / ml experience",
+      "production genai deployment"
+    ],
+    "budget": null,
+    "deadline_days": null,
+    "vague_scope": false
+  },
+  "synthetic_job_2.txt": {
+    "title": "Cloud Data Platform Engineer",
+    "company_or_client": "FinTech Vanguard",
+    "type": "job",
+    "must_have": [
+      "python",
+      "sql",
+      "apache spark | spark | pyspark",
+      "cloud data warehouse | snowflake | bigquery | databricks",
+      "dbt",
+      "apache kafka | kafka | aws kinesis | streaming",
+      "data modeling | data warehousing",
+      "data quality"
+    ],
+    "nice_to_have": [
+      "apache airflow | airflow | prefect",
+      "aws | s3 | glue | emr",
+      "terraform | infrastructure as code",
+      "financial market data"
+    ],
+    "min_years": 4.0,
+    "deal_breakers": [
+      "4+ years professional data engineering experience",
+      "us work authorization"
+    ],
+    "budget": null,
+    "deadline_days": null,
+    "vague_scope": false
+  },
+  "synthetic_job_3.txt": {
+    "title": "Full Stack TypeScript / React Developer",
+    "company_or_client": "HealthPulse Systems",
+    "type": "job",
+    "must_have": [
+      "typescript",
+      "javascript | es6",
+      "react",
+      "node.js | node",
+      "express | nestjs | rest api",
+      "postgresql | sql",
+      "automated testing | jest | cypress | vitest",
+      "git"
+    ],
+    "nice_to_have": [
+      "graphql | apollo",
+      "tailwind css | tailwind",
+      "docker",
+      "aws | gcp",
+      "hipaa compliance"
+    ],
+    "min_years": 3.0,
+    "deal_breakers": [
+      "3+ years full-stack web development",
+      "us-based and fluent in english"
+    ],
+    "budget": null,
+    "deadline_days": null,
+    "vague_scope": false
+  },
+  "synthetic_project_1.txt": {
+    "title": "Build FastAPI & Async Web Scraper Pipeline for Real Estate Data",
+    "company_or_client": "E-commerce Analytics Studio",
+    "type": "project",
+    "must_have": [
+      "python",
+      "asyncio | async python",
+      "playwright | selenium",
+      "fastapi",
+      "postgresql | sqlalchemy | asyncpg",
+      "redis | celery | task queue",
+      "docker | docker-compose"
+    ],
+    "nice_to_have": [
+      "digitalocean | aws ecs",
+      "beautifulsoup | lxml",
+      "prometheus | logging"
+    ],
+    "min_years": null,
+    "deal_breakers": [
+      "code examples of playwright or selenium scrapers",
+      "deliver within 10 days"
+    ],
+    "budget": {
+      "amount": 1200.0,
+      "currency": "USD",
+      "kind": "fixed"
+    },
+    "deadline_days": 10,
+    "vague_scope": false
+  },
+  "synthetic_project_2.txt": {
+    "title": "Interactive Financial Portfolio Analytics Dashboard (React + TypeScript)",
+    "company_or_client": "Apex Capital Partners",
+    "type": "project",
+    "must_have": [
+      "react",
+      "typescript",
+      "tailwind css | tailwind",
+      "recharts | chart.js | data visualization | charts",
+      "tanstack query | react query | redux",
+      "data filtering | csv export | tables"
+    ],
+    "nice_to_have": [
+      "next.js",
+      "financial metrics | portfolio analysis",
+      "jest | react testing library"
+    ],
+    "min_years": null,
+    "deal_breakers": [
+      "sign nda",
+      "weekly reviews and git commits"
+    ],
+    "budget": {
+      "amount": 2500.0,
+      "currency": "USD",
+      "kind": "fixed"
+    },
+    "deadline_days": 21,
+    "vague_scope": false
+  },
+  "synthetic_project_3.txt": {
+    "title": "Need AI Bot Like ChatGPT for My Website ASAP",
+    "company_or_client": "Digital Growth Hub",
+    "type": "project",
+    "must_have": [
+      "python | javascript",
+      "openai api | openai | llm | open source llm",
+      "chatbot | chat bot | ai chatbot | ai bot | bot | conversational ai",
+      "wordpress | html | website"
+    ],
+    "nice_to_have": [
+      "voice input | speech-to-text",
+      "whatsapp | telegram"
+    ],
+    "min_years": null,
+    "deal_breakers": [
+      "complete in 3 days",
+      "no upfront payment until demo"
+    ],
+    "budget": {
+      "amount": 300.0,
+      "currency": "USD",
+      "kind": "fixed"
+    },
+    "deadline_days": 3,
+    "vague_scope": true
+  }
+}

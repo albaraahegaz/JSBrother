@@ -1,0 +1,26 @@
+Project Title: Interactive Financial Portfolio Analytics Dashboard (React + TypeScript)
+Client: Apex Capital Partners
+Type: Freelance Project
+Budget: $2,500 (Fixed price)
+Deadline: 21 days
+Workplace: Remote
+
+Scope of Work:
+Apex Capital needs an experienced frontend engineer to build a modern, high-performance financial analytics web dashboard. We will supply the Figma design system and an OpenAPI 3.0 specification for all backend data endpoints.
+
+Mandatory Requirements (Must-Have):
+- Strong frontend architecture skills with React 18+ and TypeScript.
+- Clean responsive styling using Tailwind CSS.
+- Financial charting and visualization using Recharts, Chart.js, or TradingView Lightweight Charts.
+- State management and server cache synchronization using TanStack Query (React Query) or Redux Toolkit.
+- Client-side data aggregation, CSV export, and filtering for large tabular datasets (e.g., TanStack Table).
+- Full responsiveness across desktop and tablet viewports.
+
+Preferred Experience (Nice-to-Have):
+- Familiarity with Next.js App Router.
+- Understanding of financial metrics: Sharpe ratio, portfolio alpha/beta, drawdown analysis.
+- Experience with Jest and React Testing Library for core UI component tests.
+
+Deal-Breakers:
+- Freelancer must sign NDA before starting.
+- Weekly milestone reviews and Git commits to client repository required.

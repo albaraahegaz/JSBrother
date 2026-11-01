@@ -1,0 +1,44 @@
+Company: Coca-Cola HBC
+Job Title: Data Engineer
+Location: New Cairo, Cairo, Egypt
+Work Type: Hybrid
+Employment Type: Full-time
+
+About the job
+Department: Digital & Technology Platform Services, Data and AI Insights
+Location: New Cairo, Egypt
+We are expanding our team and seeking a highly skilled Data Engineer with strong expertise in Microsoft Azure, solid knowledge of machine learning, experience with modern software delivery practices, and a curious mindset toward artificial intelligence applications to join our Analytics Engineering team within the Digital & Technology Platform Services (DTPS) organization at Coca Cola Hellenic. In this role, you will contribute to shaping the strategy, design, and development of advanced analytics solutions that deliver meaningful insights and support data driven decision making across the business. You will be part of the Data Insights and Artificial Intelligence (DIAI) team, integrating and transforming data into scalable, analytics ready solutions and cutting edge machine learning applications.
+
+YOUR KEY RESPONSIBILITIES:
+• Design, develop, implement, and optimize scalable, high performance, secure, and cost efficient data pipelines using Microsoft Azure cloud services and large scale data technologies, including Apache Spark and PySpark built with object oriented programming principles.
+• Load and process data from Azure Data Lake, orchestrate Azure Databricks jobs, and manage Azure Data Factory pipelines with a high degree of proficiency.
+• Develop and implement robust data quality frameworks to ensure data integrity across all stages of the data lifecycle.
+• Perform data profiling, analysis, and validation to identify, troubleshoot, and resolve data quality issues in a timely and effective manner.
+• Implement security, governance, and access control measures to safeguard sensitive data within Microsoft Azure environments.
+• Build and maintain machine learning workflows and data pipelines that support model development, deployment, and ongoing monitoring.
+• Use approved AI coding coding agents to support requirements analysis, implementation, refactoring, testing, documentation, debugging, and code review, while retaining full accountability for the resulting code.
+• Translate product requirements into clear, bounded engineering tasks containing the relevant architecture constraints, interfaces, dependencies, edge cases, security requirements, and acceptance criteria before delegating work to an AI coding agent.
+• Utilize Git based version control to manage code repositories, apply structured branching strategies, and enable collaborative development practices.
+• Apply Agile methodologies to plan, prioritize, and deliver data engineering work in iterative development cycles.
+• Develop and maintain comprehensive documentation for data solutions, including data models, data flows, architectural diagrams, and detailed technical specifications.
+• Stay up to date with Microsoft Azure data services, large scale data tools, DevOps practices, and broader industry best practices, providing recommendations for adoption and continuous improvement.
+• Work closely with DevOps teams to implement and maintain continuous integration and continuous delivery pipelines for Azure based applications and data workflows.
+• Support Microsoft Power Business Intelligence developers by evaluating and optimizing data connection methods and data transfer strategies, ensuring high performance, scalability, data quality, and security.
+
+ARE THESE YOUR SECRET INGREDIENTS?
+• Bachelor’s degree in computer science, engineering, or a related discipline (or equivalent practical experience),
+• Two or more years of professional experience; Microsoft Azure Data Engineer certification is considered an advantage.
+• Strong understanding of secure software development and modern software delivery practices, including continuous integration, continuous delivery, automated testing, automated deployments, and extensive experience using Git for version control
+• Expertise with Microsoft Azure data services, including Azure Data Factory, Azure Data Lake Storage, and Azure Databricks, with solid experience applying performance optimization techniques for analytics and reporting workloads.
+• Hands-on experience with Apache Spark and PySpark using object oriented programming, along with strong skills in Python and SQL to design and optimize scalable data pipelines across largescale data architectures that handle big data.
+• Experience in using AI coding agents across implementation, testing, debugging, refactoring and documentation, while retaining ownership of code quality and technical decisions.
+• Skilled in context engineering: creating clear task specifications and curating the relevant code, architecture constraints, standards, examples and tool access required for reliable AI-assisted development.
+• Knowledge of Systems, Applications, and Products Business Warehouse extractors, transformations, and data export processes, along with experience working within Agile and Scaled Agile Framework environments.
+• Proven ability to ensure data quality, reliability, and operational efficiency, supporting advanced analytics and ML workflows.
+• A foundational understanding of machine learning concepts, feature engineering, and machine learning operations for model deployment and monitoring.
+
+ABOUT YOUR NEW TEAM:
+We are Coca-Cola Hellenic, a growth-focused consumer goods business and strategic bottling partner of the Coca-Cola Company. We bottle, distribute and sell an unrivalled range of products in 29 markets in Europe, Africa and Eurasia. As we do, we create value for all stakeholders, support socio-economic growth and build a more positive environmental impact.
+We bring together more than 30,000 people from over 70 nationalities, coming from five continents. The diversity of our markets, from mature to emerging economies, provides a wide range of attractive opportunities for growth.
+We nurture our talents. We give opportunities to people across all functions and levels, as well as different geographies, backgrounds and education. We are willing to take a risk on the people we believe in, even if they don’t have the perfect experience. We have faith in what every person can be.
+And although we have so much to be proud of, we always stay humble. We believe the real magic happens - for us and for you - when we OPEN UP.

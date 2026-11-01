@@ -1,0 +1,23 @@
+# Web App & UI
+streamlit>=1.30.0
+
+# HTTP & Environment
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# LangChain & LCEL Orchestration
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+
+# Embeddings & Vector Search (Playbook & CV chunks)
+sentence-transformers>=2.6.0
+faiss-cpu>=1.7.4
+
+# Document & Web Processing
+pypdf>=4.0.0
+beautifulsoup4>=4.12.0
+
+# Testing & Quality
+pytest>=8.0.0

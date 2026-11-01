@@ -1,0 +1,31 @@
+Title: Python Data Science Notebook
+Platform: Freelancer
+Status: Open
+Bids: 98
+Average bid: ₹20,035 INR
+Budget: ₹12,500.00 – 37,500.00 INR
+Bidding ends in 6 days
+Project ID: 40777945
+
+Project Details
+I’m working with a CSV dataset that mixes numerical and categorical fields and need a complete, well-documented Jupyter Notebook delivered within the next four days. The notebook should walk through data cleaning and exploration with Pandas and NumPy, focus on uncovering trends in the data, visualise key findings through clear charts or graphs, and finish with a straightforward machine-learning model built in scikit-learn.
+
+Please structure your code so each step—loading, preprocessing, exploratory analysis, visualisation, modelling, and interpretation—is easy to follow. Inline markdown explanations are essential because I intend to use the notebook as both a reference and a learning resource.
+
+Deliverables:
+• Jupyter Notebook (.ipynb) with commented, reproducible code
+• At least three meaningful visualisations supporting the trend analysis
+• A simple, train-test-split machine-learning model with evaluation metrics
+• Brief summary of insights and next-step suggestions
+
+Send links or files showing similar notebooks or data-science projects you have completed so I can gauge fit quickly. I’m open to discussing the fixed price once I’ve reviewed your past work; let’s get started right away.
+
+Skills Required
+Python
+Machine Learning (ML)
+Data Mining
+SPSS Statistics
+Data Science
+NumPy
+Data Visualization
+Pandas
